@@ -1,3 +1,7 @@
+* 26.09.2023 Nekhoroshev Mike - 1.4.1
+- ssmlib: fix error from Fedora 37(38) in crypt.py
+
+
 * Wed Apr 24 2019 Jan Tulak <jtulak@redhat.com> - v1.4
 - release 1.4 (Jan Tulak)
 - bashtests: add --units h to lvs/pvs/vgs (Jan Tulak)
